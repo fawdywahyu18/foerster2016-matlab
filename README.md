@@ -3,9 +3,10 @@
 Unofficial MATLAB translation of the replication package for:
 
 > Foerster, A., Rubio-Ramirez, J.F., Waggoner, D.F., and Zha, T. (2016).
-> **Perturbation Methods for Markov-Switching DSGE Models.**
-> *Quantitative Economics*, 7(2), 637–669.
-> https://doi.org/10.3982/QE737
+> **Perturbation Methods for Markov-Switching dynamic stochastic general equilibrium models.**
+> *Quantitative Economics*, 7, 637–669.
+> https://doi.org/10.3982/QE596
+
 
 The original replication package by the authors is written in Mathematica. This repository provides a MATLAB translation that replicates Table 1 (Section 5) and Table 3 (Section 6) of the paper.
 
